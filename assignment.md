@@ -1,10 +1,10 @@
 # feels
-
+[feels](https://www.google.com/search?gs_ssp=eJzj4tVP1zc0TEkrzokvMzEyYPRiTUtNzSkGAEuNBrI&q=calvin+harris+feels&rlz=1C1RXQR_enCA1095CA1095&oq=feels&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyBggAEEUYOzIHCAEQLhiABDIHCAIQABiABDIHCAMQLhiABDIHCAQQLhiABDIHCAUQABiABDIHCAYQLhiABDIHCAcQABiABDIHCAgQABiPAjIHCAkQABiPAtIBCDI3NDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8&si=AKbGX_p4pyeyr1FGV3SWZkER8f4EsZxmdPV1h2CsqgwNKN97Vb9sJB9E_dr2nNsRsZJDrCSHqwNv-NiNJejlGqbdZxo_N1osN673gwMZw9ctiCvflztka6zsoQHA__jlSi9KB20goEUu&ictx=1&ved=2ahUKEwjaytLclamEAxUKIjQIHYxIBEoQyNoBKAB6BAgQEAA)
 * Ah, yeah
 
-Now,nothing ever last forever, no
+<ins>Now,nothing ever last forever, no</ins>
 
-One minute you're here and the next you're gone
+*One minute you're here and the next you're gone*
 
 So I respect you, wanna take it slow
 
@@ -13,9 +13,9 @@ So I respect you, wanna take it slow
 
 * Do you mind if I steal a kiss, tho? (Chop, chop)
 
-A little souvenir, can I steal it from you?
+<ins>A little souvenir, can I steal it from you?</ins>
 
-To memorize the way you shock me
+*To memorize the way you shock me*
 
 The way you move it here (hey)
 
@@ -24,7 +24,7 @@ The way you move it here (hey)
 
 * Don't be afraid to catch feels
 
-Ride drop top and chase thrills (hey)
+<ins>Ride drop top and chase thrills (hey)</ins>
 
 I know you ain't afraid to pop pills (hey)
 
@@ -35,7 +35,7 @@ Baby, I know you ain't scared to catch feels
 
 * I'm your window shopper, sucker for your love, oh
 
-I'm wearing your goggles, virtual reality
+*I'm wearing your goggles, virtual reality*
 
 It ain't what it cost you, it might be a dollar
 
